@@ -1,0 +1,6 @@
+ml/
+.vscode
+.venv
+.ipynb_checkpoints
+datasets
+models
